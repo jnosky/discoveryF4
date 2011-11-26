@@ -5,4 +5,8 @@
 *.elf
 *.zip
 *.log
+*.htm
+*.html
+*.map
+*.out
 .metadata
