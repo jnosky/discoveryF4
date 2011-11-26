@@ -1,0 +1,4 @@
+Virtual COM port using the USB CDC device.
+
+Todo:
+Linecoding and other such requests are not handled.
