@@ -1,0 +1,8 @@
+*.a
+*.o
+*.elf
+*.bin
+*.elf
+*.zip
+*.log
+.metadata
